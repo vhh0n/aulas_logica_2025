@@ -7,5 +7,10 @@
 # Diretório de dependências
 node_modules/
 
+#Alterando
+.gitgnore
+
 # Arquivo específico com dados e senhas
 conexão.py
+
+exercicios/
